@@ -12,7 +12,6 @@ Dự án bao gồm các thành phần chính sau:
     * Trực quan hóa dữ liệu.
     * Xây dựng và huấn luyện các mô hình Machine Learning.
     * Đánh giá độ chính xác của mô hình.
-* **`tesst.txt`**: File văn bản thử nghiệm (có thể chứa ghi chú hoặc dữ liệu nháp).
 
 ## 🚀 Yêu cầu Hệ thống & Cài đặt
 
